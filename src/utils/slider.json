@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Vijaya Garden 3BHK Duplex",
+    "price": "Rs.30000",
+    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
+    "image": "./contact.jpeg"
+  },
+  {
+    "name": "Vatika Green City 3BHK",
+    "price": "Rs.13000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./value.jpeg"
+  },
+  {
+    "name": "Asatti Garden City 3BHK Duplex",
+    "price": "Rs.30000",
+    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
+    "image": "./r2.png"
+  }
+]
